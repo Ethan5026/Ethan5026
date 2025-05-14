@@ -1,4 +1,6 @@
-### 👋 Hi, I'm Ethan Gruening!
+# 👋 Hi, I'm Ethan Gruening!
+
+---
 
 🎓 I earned my B.S. in Software Engineering with a minor in Cybersecurity from Iowa State University (2022–2025), graduating with a 3.91 GPA.
 📚 I'm continuing at ISU to pursue a Master's in Artificial Intelligence (2026–2027).
